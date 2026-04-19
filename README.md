@@ -135,8 +135,8 @@ Image upload endpoints expect `multipart/form-data` with form field name:
 Accepted extensions: `.png`, `.jpg`, `.jpeg`
 
 ## Demo Video
-Video link will be added here soon.
-This is video of a postman collection for testing the API.
+https://player.cloudinary.com/embed/?cloud_name=dmvrf2rns&public_id=Ecommerce_APIs_Testing_fx6ujz
+This is a video of a postman collection for testing the APIs.
 
 ## Project Status
 
